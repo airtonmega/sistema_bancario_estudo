@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema Bancário Estudo
 
 Este é um sistema bancário simples desenvolvido em Python utilizando a biblioteca Tkinter para criar uma interface gráfica. Este projeto foi desenvolvido como parte do Bootcamp Dio Engenharia de Dados.
@@ -24,3 +25,7 @@ Clone o repositório para o seu computador:
 
 ```bash
 git clone https://github.com/airtonmega/sistema_bancario_estudo.git
+=======
+# sistema_bancario_estudo
+entrega de desafio bootcamp ntt dio
+>>>>>>> f10eff9657a6fb8257ef18d5b1d31c5bccac093b
